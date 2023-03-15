@@ -33,7 +33,7 @@ https://www.coursera.org/learn/statistical-inferences
 - Compute effect sizes from summary data or test statistics.
 - Interpret effect sizes.
 
-#### Week 5 Confidence Intervals, Sample Size Justifacation, P-Curve Analysis
+#### Week 5 Confidence Intervals, Sample Size Justification, P-Curve Analysis
 - Interpret confidence intervals correctly.
 - Distinguish Frequentist confidence intervals and Bayesian credible intervals.
 - Justify the sample size in your study.
